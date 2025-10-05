@@ -1,0 +1,26 @@
+{
+  "version": "0.1",
+  "duration": 10,
+  "framerate": 15,
+  "resolution": "640x360",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "type": "static",
+      "assets": [
+        "assets/img1.png"
+      ],
+      "start": 0,
+      "end": 5
+    },
+    {
+      "id": "scene-2",
+      "type": "static",
+      "assets": [
+        "assets/img2.png"
+      ],
+      "start": 5,
+      "end": 10
+    }
+  ]
+}
